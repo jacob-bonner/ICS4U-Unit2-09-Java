@@ -8,7 +8,7 @@
 
 public class Vehicle {
   // Initializing fields
-  protected String colour;
+  String colour;
   private float speed;
   private int maximumSpeed;
 
